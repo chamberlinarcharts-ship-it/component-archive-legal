@@ -28,7 +28,7 @@ The location of a reference is only what you type in. The app doesn't use your p
 - **Bookmarks, saved people, saved collections, blocks and reports:** only you. Reports are also visible to the moderator (me), but never to the person reported.
 
 ## Where it's kept
-Your data is stored with **Supabase** (database, file storage and login), which hosts it on secure servers on my behalf. Supabase only processes it to run the app. Photos are kept in private storage and are only shown through short-lived links to people allowed to see them.
+Your data is stored with **Supabase** (database, file storage and login), which hosts it on secure servers on my behalf. Emails from the app (such as password reset codes) are sent through **Resend**, which receives your email address only to deliver them. Both only process your information to run the app. Photos are kept in private storage and are only shown through short-lived links to people allowed to see them.
 
 ## Seeing and correcting your information
 You can see and change your references, their details and visibility, your collections and your saved items in the app at any time. To correct your name or email, or to ask what information is stored about you, email me (below).
