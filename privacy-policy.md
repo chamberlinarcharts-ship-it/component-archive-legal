@@ -12,7 +12,7 @@ Collective 1:3 (Y/OUR Archive) is run by Abel Chamberlin ("I", "me"). This expla
 - **Account:** your email address, a password (stored securely by the login service; I can't see it), and your first and last name.
 - **Your references:** the photos you upload and the details you add (title, category, material, designer, project, location, Private/Public).
 - **Your activity in the archive:** bookmarks and folders (and whether a folder is public), saved people, saved collections, people you block, and reports you send.
-- **On your phone only:** a few settings (for example, that you've seen the opening page) and older "on this device" photos that were never uploaded.
+- **On your phone only:** a few settings (for example, that you've seen the opening page).
 
 The location of a reference is only what you type in. The app doesn't use your phone's GPS.
 
